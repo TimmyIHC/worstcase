@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 import java.lang.*;
 
-//my first edit
+//thank you aashiq
 class abc
 {
 	public static void main(String args[])
