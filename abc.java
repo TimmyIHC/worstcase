@@ -3,7 +3,6 @@ import java.util.*;
 import java.lang.*;
 
 //thank you aashiq
-//tgvhgvhgvv
 class abc
 {
 	public static void main(String args[])
